@@ -1,1 +1,2 @@
 # Credit-card-Analysis
+Credit card analysis examines spending habits, interest rates, fees, and rewards to optimize financial decisions. It helps track expenses, detect fraud, and improve budgeting. Comparing cards allows users to maximize cashback, travel rewards, and low-interest benefits. Effective analysis ensures responsible spending, minimizes fees, and enhances financial planning for better credit management and smarter financial choices.
